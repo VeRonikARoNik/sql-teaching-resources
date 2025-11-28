@@ -1,5 +1,7 @@
 # sql-teaching-resources
 
+wykonanezadania100@gmail.com
+
 
 ## Podstawowe komendy SQL
 
