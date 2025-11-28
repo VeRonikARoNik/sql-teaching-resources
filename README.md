@@ -19,6 +19,7 @@
 ---
 
 ## Zadanie główne – Sklep internetowy
+
 1. Stwórz bazę danych
 ```
 CREATE DATABASE ShopDB;
@@ -104,7 +105,7 @@ WHERE id = 5;
 
 ```
 
-Zadania
+### Zadania
 
 ## 1. Wyświetl tylko produkty droższe niż 500 zł.
 ## 2. Podaj średnią cenę kategorii „Furniture”.
@@ -188,7 +189,7 @@ CREATE TABLE orders (
 
 ```
 
-Wstaq dane 
+Wstaw dane 
 ```
 INSERT INTO customers VALUES
 (1, 'Anna', 'Nowak', 'anna@ex.com'),
@@ -205,16 +206,16 @@ INSERT INTO orders VALUES
 ```
 
 
-### Wyświetl listę zamówień wraz z imieniem i nazwiskiem klienta (JOIN).
+### 1. Wyświetl listę zamówień wraz z imieniem i nazwiskiem klienta (JOIN).
 
-### Wyświetl zamówienia złożone po 12 marca 2024.
+### 2. Wyświetl zamówienia złożone po 12 marca 2024.
 
-### Podaj sumę wartości zamówień każdego klienta.
+### 3. Podaj sumę wartości zamówień każdego klienta.
 
-### Znajdź klienta, który wydał najwięcej pieniędzy.
+### 4. Znajdź klienta, który wydał najwięcej pieniędzy.
 
-### Wyświetl tylko zamówienia, których nazwa produktu zaczyna się na „M”.
+### 5. Wyświetl tylko zamówienia, których nazwa produktu zaczyna się na „M”.
 
-### Usuń zamówienia o wartości poniżej 50 zł.
+### 6. Usuń zamówienia o wartości poniżej 50 zł.
 
-### Zmień email Karoliny Wiśniewskiej na „karolina.w@ex.com”.
+### 7. Zmień email Karoliny Wiśniewskiej na „karolina.w@ex.com”.
