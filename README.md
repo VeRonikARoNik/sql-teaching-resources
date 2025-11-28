@@ -106,21 +106,18 @@ WHERE id = 5;
 
 Zadania
 
-### Wyświetl tylko produkty droższe niż 500 zł.
+## 1. Wyświetl tylko produkty droższe niż 500 zł.
+## 2. Podaj średnią cenę kategorii „Furniture”.
+## 3. Policz, ile produktów kosztuje mniej niż 100 zł.
+## 4. Wyświetl najdroższy produkt w każdej kategorii.
 
-### Podaj średnią cenę kategorii „Furniture”.
+## 5. Znajdź produkty, których nazwa zawiera literę „a”.
 
-### Policz, ile produktów kosztuje mniej niż 100 zł.
+## 6. Usuń produkty tańsze niż 50 zł.
 
-### Wyświetl najdroższy produkt w każdej kategorii.
+## 7. Podnieś ceny wszystkich mebli o 10%.
 
-### Znajdź produkty, których nazwa zawiera literę „a”.
-
-### Usuń produkty tańsze niż 50 zł.
-
-### Podnieś ceny wszystkich mebli o 10%.
-
-### Posortuj produkty malejąco po nazwie.
+## 8. Posortuj produkty malejąco po nazwie.
 
 
 
@@ -131,39 +128,36 @@ Stwórz tabelę employees z kolumnami:
 
 id, first_name, last_name, department, salary
 
-Dodaj dane:
-id	first_name	last_name	department	salary
-1	Anna	Nowak	HR	4200
-2	Daniel	Kowal	IT	6500
-3	Marta	Lewandowska	Sales	5100
-4	Igor	Nowicki	IT	7200
-5	Olga	Zawadzka	HR	4600
+
+
+<img width="882" height="330" alt="image" src="https://github.com/user-attachments/assets/2dba3755-ac51-4624-89f1-b87d676a5750" />
+
 
 
 ## Polecenia do wykonania
 
-### Wyświetl wszystkich pracowników.
+## 2. Wyświetl wszystkich pracowników.
 
-### Znajdź osoby z działu IT.
+## 3. Znajdź osoby z działu IT.
 
-### Znajdź osoby, których nazwisko zaczyna się na „N”.
+## 4. Znajdź osoby, których nazwisko zaczyna się na „N”.
 
-### Policz średnią pensję wszystkich pracowników.
+## 5. Policz średnią pensję wszystkich pracowników.
 
-### Policz sumę wynagrodzeń w dziale HR.
+## 6. Policz sumę wynagrodzeń w dziale HR.
 
-### Znajdź najwyższą i najniższą pensję.
+## 7. Znajdź najwyższą i najniższą pensję.
 
-### Posortuj malejąco po wynagrodzeniu.
+## 8. Posortuj malejąco po wynagrodzeniu.
 
-### Policz ilu jest pracowników w każdym dziale (GROUP BY).
+## 9. Policz ilu jest pracowników w każdym dziale (GROUP BY).
 
-### Zmień pensję Marty Lewandowskiej na 5500.
+## 10. Zmień pensję Marty Lewandowskiej na 5500.
 
-### Usuń osobę o id = 1.
+## 11. Usuń osobę o id = 1.
 
 
-Zadanie dodatkowe (trudne) – Relacyjna baza danych
+### Zadanie dodatkowe (trudne) – Relacyjna baza danych
 
 ```
 CREATE DATABASE OrdersDB;
