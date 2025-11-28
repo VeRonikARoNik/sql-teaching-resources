@@ -122,11 +122,10 @@ Zadania
 
 
 
-Zadanie do samodzielnej pracy (20–25 min)
-Nowa baza: EmployeeDB
-Stwórz tabelę employees z kolumnami:
-
-id, first_name, last_name, department, salary
+### Zadanie do samodzielnej pracy (20–25 min)
+#### Nowa baza: EmployeeDB
+#### Stwórz tabelę employees z kolumnami:
+#### id, first_name, last_name, department, salary
 
 
 
@@ -136,25 +135,25 @@ id, first_name, last_name, department, salary
 
 ## Polecenia do wykonania
 
-## 2. Wyświetl wszystkich pracowników.
+## 1. Wyświetl wszystkich pracowników.
 
-## 3. Znajdź osoby z działu IT.
+## 2. Znajdź osoby z działu IT.
 
-## 4. Znajdź osoby, których nazwisko zaczyna się na „N”.
+## 3. Znajdź osoby, których nazwisko zaczyna się na „N”.
 
-## 5. Policz średnią pensję wszystkich pracowników.
+## 4. Policz średnią pensję wszystkich pracowników.
 
-## 6. Policz sumę wynagrodzeń w dziale HR.
+## 5. Policz sumę wynagrodzeń w dziale HR.
 
-## 7. Znajdź najwyższą i najniższą pensję.
+## 6. Znajdź najwyższą i najniższą pensję.
 
-## 8. Posortuj malejąco po wynagrodzeniu.
+## 7. Posortuj malejąco po wynagrodzeniu.
 
-## 9. Policz ilu jest pracowników w każdym dziale (GROUP BY).
+## 8. Policz ilu jest pracowników w każdym dziale (GROUP BY).
 
-## 10. Zmień pensję Marty Lewandowskiej na 5500.
+## 9. Zmień pensję Marty Lewandowskiej na 5500.
 
-## 11. Usuń osobę o id = 1.
+## 10. Usuń osobę o id = 1.
 
 
 ### Zadanie dodatkowe (trudne) – Relacyjna baza danych
